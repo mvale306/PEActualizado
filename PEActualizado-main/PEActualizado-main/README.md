@@ -1,2 +1,0 @@
-# PEActualizado
-actualizacion
